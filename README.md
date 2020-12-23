@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Python
+
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=alexsouza27&show_icons=true&hide_title=true)
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsouza27&layout=compact)
 
@@ -11,7 +14,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
