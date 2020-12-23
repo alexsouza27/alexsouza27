@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :computer: Developer at [Elife](https://elife.com.br/), current working with Python and Java
-- 🌱 I’m currently learning Python, C, Java and Javascript
+- :books: I’m currently learning Python, C, Java and Javascript
 - 📫 How to reach me: alex_emanuel27@hotmail.com or https://www.linkedin.com/in/alex-emanuel-12b920116/
 - 
 
